@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Website URL](https://daniel-web-developer.github.io/order-summary-component/)
+- Live Site URL: https://daniel-web-developer.github.io/order-summary-component/
 
 ## My process
 
@@ -55,5 +55,3 @@ In this project, I've had the same problem I experienced in the last one I uploa
 
 - Github - [daniel-web-developer](https://github.com/daniel-web-developer)
 - Frontend Mentor - [@daniel-web-developer](https://www.frontendmentor.io/profile/daniel-web-developer)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
